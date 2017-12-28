@@ -9,4 +9,4 @@ ClickerMath.game.state.add('PreloadState', ClickerMath.PreloadState);
 ClickerMath.game.state.add('GameState', ClickerMath.GameState);
 ClickerMath.game.state.add('HomeState', ClickerMath.HomeState);
 
-ClickerMath.game.state.start('BootState');    
+ClickerMath.game.state.start('BootState');   
